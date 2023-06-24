@@ -1,2 +1,2 @@
-# projmlh
+# project
 Hospital Management System
