@@ -25,8 +25,8 @@ The Hospital Management System is a powerful tool designed to streamline hospita
 
 ## Getting Started
 
-To learn more about Python or Tkinter Refer the links below:
+To learn more about Python or Tkinter Refer the links :
 -[Python](https://www.python.org/)
--[Tkinter](https://realpython.com/python-gui-tkinter/)
+    -[Tkinter](https://realpython.com/python-gui-tkinter/)
 
 Make your hospital operations more efficient and effective with the Hospital Management System.
