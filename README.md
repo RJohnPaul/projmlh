@@ -1,5 +1,5 @@
 # Hospital Management System
-
+![proj2.png](https://github.com/iamjohndevboy/Xtract-AI/blob/66dd40b7f05aaee1f71b57df15d128307e69c6f2/GIT%20(1).png)
 Introducing the Hospital Management System, a Python-based application that uses Tkinter for the GUI and MySQL for the database.
 
 The Hospital Management System is a powerful tool that can help hospitals streamline their operations and provide better care for their patients. With this system, hospitals can:
